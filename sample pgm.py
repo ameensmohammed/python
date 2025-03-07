@@ -1,0 +1,10 @@
+print("hello")
+print("world!")
+n=5
+print(n)
+print(n*2)
+print(1,"zak",3,"hello")
+print("hello",end='')
+print("world!")
+print("hello",end='-')
+print("world!")
